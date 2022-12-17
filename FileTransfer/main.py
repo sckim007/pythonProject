@@ -4,7 +4,7 @@
     pip install scp
 
 SSHManager 클래스
-    SSH연결 및 종료, scp 전송 및 다운로드 등의 기능을 포함한 SSHManager 클래스 생성.
+    SSH연결 및 종료, scp 전송 및 다운로드 등의 기능을 포함한 SSHManager 클래스 생성....
 """
 import paramiko
 from scp import SCPClient, SCPException
